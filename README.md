@@ -32,26 +32,10 @@ PlantNet is a full-stack plant marketplace and management web application design
 ---
 
 ## Your Contribution
-*(Edit this section to match your exact role—for example, if this was an individual or team project)*
 - Designed and implemented the full-stack architecture separating `client` (React + Vite) and `server` (Node.js).
-- Built the role-based authentication and route guard flow (`PrivateRoute`, `SellerRoute`, `AdminRoute`) integrated with Firebase and custom hooks (`useAuth`, `useRole`, `useAxiosSecure`).
 - Developed interactive dashboard modules, modals, and forms for plant listing CRUD operations, order checkout, and admin statistics.
 - Structured responsive UI components using Tailwind CSS.
 
----
-
-## Screenshots
-*(Add your project screenshots inside a `screenshots/` folder in your repository and update the paths below)*
-
-| Home / Storefront | Plant Details |
-| :---: | :---: |
-| ![Home Page](screenshots/home.png) | ![Plant Details](screenshots/plant-details.png) |
-
-| Seller Dashboard / Inventory | Admin Statistics |
-| :---: | :---: |
-| ![Dashboard](screenshots/dashboard.png) | ![Admin Statistics](screenshots/admin-stats.png) |
-
----
 
 ## How to Run
 
